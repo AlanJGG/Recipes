@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(228, 202, 168);
+}
+.header{
+    background-color: rgb(220, 211, 199);
+    display: flex;
+    justify-content: center;
+    width: 95%;
+    border-radius: 15px;
+}
+.line{
+    width: 95%;
+    height: 10px;
+    border-radius: 5px;
+}
+.body{
+
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
